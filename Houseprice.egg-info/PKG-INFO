@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Houseprice
+Version: 0.0.0
+Author: kp
+Author-email: kp@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: Flask
